@@ -1,0 +1,23 @@
+.ordenar{
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.ordenar ul{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    padding: 0;
+    width: 300px;
+}
+
+.ordenar ul li{
+    list-style: none;
+}
+
+.carro{
+    display: flex;
+    flex-direction: column;
+} 
